@@ -76,4 +76,5 @@ public class Zadaniye5 {
 	            System.out.println(arr[i].name + " " + arr[i].grade);
 	        }
 	    }
+	}
 }
